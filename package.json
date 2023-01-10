@@ -1,0 +1,24 @@
+{
+  "name": "qrgenerator",
+  "version": "1.0.0",
+  "description": "a QR code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikkohli/QRgenerator.git"
+  },
+  "author": "Ritik kohli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikkohli/QRgenerator/issues"
+  },
+  "homepage": "https://github.com/ritikkohli/QRgenerator#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
